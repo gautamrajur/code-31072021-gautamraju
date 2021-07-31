@@ -1,0 +1,7 @@
+32.83061454806607,moderately obese,Medium risk
+32.79194475521777,moderately obese,Medium risk
+31.11111111111111,moderately obese,Medium risk
+23.76543209876543,Normal weight,Low risk
+22.49963710262738,Normal weight,Low risk
+29.402273297715947,Overweight,enhanced risk
+The number of overweight candidates:1
