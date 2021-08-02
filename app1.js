@@ -74,3 +74,4 @@ for( var i = 0; i < parsed_obj.length; i++){
 fs.appendFile('./data12.txt','The number of overweight candidates:'+count1+'\n',(err)=>{
     if(err) {console.error(err)}
    })
+
